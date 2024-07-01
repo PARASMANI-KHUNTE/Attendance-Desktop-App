@@ -25,7 +25,7 @@ The Student Attendance Tracker is a Python application built with Tkinter and pa
 ## Usage
 1. Clone the repository:
 2. Navigate to the project directory:
-3. Install dependencies: ( run setup.py )
+3. Install dependencies: (pip install setuptools then  run setup.py )
 4. Run the application:
 5. Use the "Previous" and "Next" buttons to navigate through student profiles.
 6. Mark attendance using the radio buttons ("Present" or "Absent").
