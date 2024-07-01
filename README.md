@@ -8,7 +8,7 @@ Attendance Desktop App but with python......
 ## Overview
 The Student Attendance Tracker is a Python application built with Tkinter and pandas libraries. It allows users to track and manage attendance for a list of students. Users can navigate through student profiles, mark them present or absent, and then view or export attendance data to an Excel spreadsheet.
 
-![Demo](demo.png)
+
 
 ## Features
 - **Navigation**: Navigate through student profiles using "Previous" and "Next" buttons.
@@ -32,9 +32,7 @@ The Student Attendance Tracker is a Python application built with Tkinter and pa
 7. Click "Submit" to see attendance results.
 8. Click "Save to Excel" to export attendance data to `attendance.xlsx`.
 
-## Screenshots
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
